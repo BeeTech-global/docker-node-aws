@@ -4,5 +4,4 @@
 - NPM 3.10
 - AWS Cli
 - Heroku Cli
-- Phantomjs
 
